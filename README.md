@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Duc Duong
-- 👀 I'm a Computer Science student at University of Houston
+- 👀 I'm a software engineer at NASA
 
 <!---
 stevenduong2597/stevenduong2597 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
